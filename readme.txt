@@ -8,4 +8,6 @@ Create a new branch is simple and very qiuck.
 
 add merge
 
-Create a new branch is quick&simple.
+<<<<<<< HEAD
+Create a new branch is quickand simple.
+>>>>>>> feature1
