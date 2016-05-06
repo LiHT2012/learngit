@@ -13,3 +13,4 @@ hello world!
 pull from the remote.
 
 branch dev
+branch dev conflict.
