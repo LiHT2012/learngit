@@ -6,5 +6,4 @@ Git tracks changes of files.
 Create a new branch is quick&simple.
 Create a new branch is simple and very qiuck.
 
-Qq
-eeeee
+changes
