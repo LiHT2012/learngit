@@ -6,8 +6,5 @@ Git tracks changes of files.
 Create a new branch is quick&simple.
 Create a new branch is simple and very qiuck.
 
-add merge
-
-<<<<<<< HEAD
-Create a new branch is quickand simple.
->>>>>>> feature1
+Qq
+eeeee
