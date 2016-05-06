@@ -12,4 +12,5 @@ hello world!
 
 pull from the remote.
 
-branch dev
+branch dev  
+       branch feature1 conflict fixed.
