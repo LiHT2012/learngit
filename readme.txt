@@ -16,5 +16,3 @@ pull from the remote.
 branch dev branch feature1 conflict fixed.
 >>>>>>> feature1
 
-
-create a new branch is quick.
