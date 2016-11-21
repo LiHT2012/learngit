@@ -23,3 +23,5 @@ create a branch is simple and quick.
 >>>>>>> feature1
 
 分支管理策略
+
+stash
